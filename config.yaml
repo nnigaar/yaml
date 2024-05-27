@@ -1,0 +1,3 @@
+webdriver_path: "D:\\chromedriver.exe"
+website_url: "https://userinyerface.com/game.html"
+element_load_timeout: 5
